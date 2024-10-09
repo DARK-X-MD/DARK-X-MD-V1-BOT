@@ -13,7 +13,7 @@ try{
 
 let dec = `*👋 Hello ${pushname}*
 
-*📍REPO LINK ❤️‍🔥👇*
+*🤖 DARK-X-MD-V1 REPO LINK 🤖👇*
 
 🧚‍♀️◦ https://github.com/Denu8/BOXTER-MD
 
