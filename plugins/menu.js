@@ -5,7 +5,7 @@ cmd({
     pattern: "menu",
     desc: "get cmd list",
     category: "main",
-    react: "📜",
+    react: "📑",
     filename: __filename
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
@@ -26,29 +26,29 @@ menu[commands[i].category] += `${config.PREFIX}${commands[i].pattern}\n`;
  }
 }
 
-let madeMenu = `*👋 Hello ${pushname}*
+let madeMenu = `*👏 HI ${pushname}*
 
-*🔱DOWNLOAD COMMANDS🔱*
+*🎬 ᎠϴᏔΝᏞϴᎪᎠ ᏟϴᎷᎷᎪΝᎠՏ 🎬*
 
 ${menu.download}
 
-*🔱MAIN COMMANDS🔱*
+*👨‍💻 ᎷᎪᏆΝ ᏟϴᎷᎷᎪΝᎠՏ 👨‍💻*
 
 ${menu.main}
 
-*🔱GROUP COMMANDS🔱*
+*👨‍👨‍👦‍👦 ᏀᎡϴႮᏢ ᏟϴᎷᎷᎪΝᎠՏ 👨‍👨‍👦‍👦*
 
 ${menu.group}
 
-*🔱OWNER COMMANDS🔱*
+*👤 ϴᏔΝᎬᎡ ᏟϴᎷᎷᎪΝᎠՏ 👤*
 
 ${menu.owner}
 
-*🔱CONVERT COMMANDS🔱*
+*🤖 ᏟϴΝᏙᎬᎡͲ ᏟϴᎷᎷᎪΝᎠՏ *
 
 ${menu.convert}
 
-*🔱SEARCH COMMANDS🔱*
+*🔍 ՏᎬᎪᎡᏟᎻ ᏟϴᎷᎷᎪΝᎠՏ 🔎*
 
 ${menu.search}
 
