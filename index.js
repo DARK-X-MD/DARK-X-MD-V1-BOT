@@ -78,9 +78,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅…')
 console.log('Bot connected to whatsapp ✅…')
 
-let up = `> DARK-X-MD connected successful ✅…\n\nJoin Our Support Chanel🤖🔥 =  https://whatsapp.com/channel/0029VaePgYXBqbr6Vkg75n1j\n\nPREFIX: ${prefix}`;
+let up = `> DARK-X-MD connected successful ✅…\n\nJoin Our Support Chanel🤖🔥 =  https://whatsapp.com/channel/0029ValzLhUBqbrFa8tMPg3U\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://unitedcamps.in/Images/file_406.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/9pecje.jpg` }, caption: up })
 
 }
 })
