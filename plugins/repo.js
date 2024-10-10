@@ -11,17 +11,17 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `*👋 Hello ${pushname}*
+let dec = `*👋 HI ${pushname}*
 
 *🤖 DARK-X-MD-V1 REPO LINK 🤖👇*
 
-🧚‍♀️◦ https://github.com/Denu8/BOXTER-MD
+👨‍💻 https://github.com/DARK-X-TEAM/DARK-X-MD-V1 👨‍💻
 
-*📍PLEASE FOLLOW MY WHATSAPP CHANNEL❤️‍🔥👇*
+*This bot was created by the DARK-X-TEAM, more information about this bot will be posted on our channel. Keep following the channel.*
 
-🧚‍♀️◦  https://whatsapp.com/channel/0029VaePgYXBqbr6Vkg75n1j
+👨‍💻 https://whatsapp.com/channel/0029ValzLhUBqbrFa8tMPg3U 👨‍💻
 
-*©BOXTER-MD*
+*©👨‍💻 DARK-X-TEAM 👨‍💻*
 
 `
 await conn.sendMessage(from,{image:{url: `https://unitedcamps.in/Images/file_406.jpg`},caption:dec},{quoted:mek});
