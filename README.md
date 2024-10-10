@@ -1,55 +1,94 @@
-# BOXTER MD
-```MADE BY DENUWAH```
-
-Welcome to the **DENUWAH NEW** project for **BOXTER-MD**. This application allows users to obtain a SESSION-ID by entering their phone number with the country code. It's a simple, interactive tool with a clean, modern interface designed to be both user-friendly and functional.
-
-![Background Image](https://unitedcamps.in/Images/file_406.jpg)
-
-<br>
- </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+BOXTER-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;KING DENUWAH" alt="Typing SVG" /></a>
-
-<a href="https://whatsapp.com/channel/0029VaePgYXBqbr6Vkg75n1j"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="🙌Join Our WhatsApp Channel🙌" width="300"></a>
+<div align="center">
+     
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=DARK+X+MD+ＷＨＡＴＳＡＰＰ+ＢＯＴ+V1)](https://git.io/typing-svg)
 
 
-## Pair Features
 
-- **Enter Phone Number**: Users can input their phone number with the country code.
-- **Get SESSION-ID**: Submit the phone number to receive a SESSION-ID.
-- **Copy Code**: Easily copy the received code to the clipboard with a click.
-- **Loading Spinner**: Visual feedback while waiting for the response.
+<div align="center">
+</p
 
-## PAIR SITE
+<hr>
 
-You can see the Paire Code at [PAIR CODE](https://pair-web-public.koyeb.app/).
+<hr>
 
-## Deployment
+<p align="center">
+<a href="https://github.com/SHANUWATECH/DARK-X-MD.git">
+    <img src="https://i.imgur.com/koS3zw9.jpeg"  width="700px">
+</a>
+<hr>
 
-You can deploy this application on various platforms. Here are some options:
+<hr>
+<b>GET SESSION ID VIA PAIR CODE</b>
 
-- **[Replit](https://replit.com/)**: An easy way to deploy and collaborate on code.
-- **[Heroku](https://www.heroku.com/)**: A cloud platform that lets you build, deliver, monitor, and scale apps.
-- **[Koyeb](https://www.koyeb.com/)**: A modern cloud platform to deploy and manage your applications.
-- **[Render](https://render.com/)**: Provides a simple, fast, and reliable way to deploy and manage applications.
+<a href='https://pair-web-public.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-## CONNECT
+<hr>
+<b><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 
-- **[MONGODB](https://railway.app/)**: Get Mongodb For Bot Connect
+## DARK X TEAM CONTACT 
 
-## BOXTER BOT SUPPORT
+[![vajira](https://api.shannmoderz.xyz/server/file/j6WfnzGEo0NRzbXT.jpg)](https://wa.me/94724389699)
 
-FOLLOW ON WA CHANEL 👇
 
-- **.(https://whatsapp.com/channel/0029VaePgYXBqbr6Vkg75n1j).**: Whatsapp Chanel 🌟
+[![vajira](https://api.shannmoderz.xyz/server/file/JNKzVdsHb2ac3svz.jpg)](https://wa.me/94773883257)
 
-SUBSCRIBE ON YT CHANEL 👇
 
-- **.(https://youtube.com/@denuwa_tech49?si=kd7MRVaAtn2DH3St).**: Youtube Chanel 🌟
+[![vajira](https://api.shannmoderz.xyz/server/file/wi3srTvUnz8dAoP2.jpg)](https://wa.me/94727163302)
 
-CONTACT ON OWNER 👇
 
-- **.(94722336454).**: Owner Number 🌟
+[![vajira](https://api.shannmoderz.xyz/server/file/MIcN4DNFCYnsJJBf.jpg)](https://wa.me/94769483739)
+<hr>
+</details>
 
-```THE BOT MADE BY DENUWAH```
+## BOT CHANNEL 
 
+[![vajira](https://api.shannmoderz.xyz/server/file/AbwMFpEQlJmsBpT.jpg)](https://whatsapp.com/channel/0029Val4gi51NCrNjMIrTs1S)
+<hr>
+</details>
+
+## Deploy.
+ [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD)
+  
+[![nima](https://img.shields.io/badge/asitha_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+   
+[![nima](https://img.shields.io/badge/asitha_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+   
+[![nima](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+
+
+# COPY WORKFLOW CODE
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
