@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/SHANUWATECH/DARK-X-MD.git">
-    <img src="https://files.catbox.moe/9pecje.jpg."  width="700px">
+    <img src="https://files.catbox.moe/9pecje.jpg"  width="700px">
 </a>
 <hr>
 
