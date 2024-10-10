@@ -52,9 +52,11 @@ ${menu.convert}
 
 ${menu.search}
 
-_Support Chanel 👋💚_ = *👉  https://whatsapp.com/channel/0029VaePgYXBqbr6Vkg75n1j 👈*
+*This bot was created by the DARK-X-TEAM, more information about this bot will be posted on our channel. Keep following the channel.👇*
 
-©𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘽𝙊𝙓𝙏𝙀𝙍 𝙈𝘿
+*👥 https://whatsapp.com/channel/0029ValzLhUBqbrFa8tMPg3U 👥*
+
+©👨‍💻 DARK-X-TEAM 👨‍💻
 `
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
 
