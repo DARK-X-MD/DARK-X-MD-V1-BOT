@@ -27,7 +27,7 @@
 
 ## DARK X TEAM CONTACT 
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94724389699)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94774609569)
 
 
 [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94773883257)
