@@ -54,6 +54,6 @@
 
 ## BOT CHANNEL 
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029Val4gi51NCrNjMIrTs1S)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029ValzLhUBqbrFa8tMPg3U)
 <hr>
 </details>
