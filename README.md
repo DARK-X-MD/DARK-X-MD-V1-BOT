@@ -40,11 +40,6 @@
 <hr>
 </details>
 
-## BOT CHANNEL 
-
-[![vajira](https://api.shannmoderz.xyz/server/file/AbwMFpEQlJmsBpT.jpg)](https://whatsapp.com/channel/0029Val4gi51NCrNjMIrTs1S)
-<hr>
-</details>
 
 ## Deploy.
  [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD)
@@ -56,3 +51,8 @@
 [![nima](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 
+## BOT CHANNEL 
+
+[![vajira](https://api.shannmoderz.xyz/server/file/AbwMFpEQlJmsBpT.jpg)](https://whatsapp.com/channel/0029Val4gi51NCrNjMIrTs1S)
+<hr>
+</details>
