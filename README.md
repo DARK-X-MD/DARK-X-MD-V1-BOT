@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/SHANUWATECH/DARK-X-MD.git">
-    <img src="https://i.imgur.com/koS3zw9.jpeg"  width="700px">
+    <img src="https://files.catbox.moe/9pecje.jpg."  width="700px">
 </a>
 <hr>
 
@@ -54,6 +54,6 @@
 
 ## BOT CHANNEL 
 
-[![vajira](https://api.shannmoderz.xyz/server/file/AbwMFpEQlJmsBpT.jpg)](https://whatsapp.com/channel/0029Val4gi51NCrNjMIrTs1S)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029Val4gi51NCrNjMIrTs1S)
 <hr>
 </details>
