@@ -27,16 +27,16 @@
 
 ## DARK X TEAM CONTACT 
 
-[![vajira](https://api.shannmoderz.xyz/server/file/j6WfnzGEo0NRzbXT.jpg)](https://wa.me/94724389699)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94724389699)
 
 
-[![vajira](https://api.shannmoderz.xyz/server/file/JNKzVdsHb2ac3svz.jpg)](https://wa.me/94773883257)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94773883257)
 
 
-[![vajira](https://api.shannmoderz.xyz/server/file/wi3srTvUnz8dAoP2.jpg)](https://wa.me/94727163302)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94727163302)
 
 
-[![vajira](https://api.shannmoderz.xyz/server/file/MIcN4DNFCYnsJJBf.jpg)](https://wa.me/94769483739)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94769483739)
 <hr>
 </details>
 
