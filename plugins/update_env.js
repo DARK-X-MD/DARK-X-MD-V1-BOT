@@ -7,14 +7,14 @@ cmd({
     alias: ["updateenv"],
     desc: "Check and update environment variables",
     category: "owner",
-    react: "🔰",
+    react: "🌈",
     filename: __filename,
 },
 async (conn, mek, m, { from, q, reply, isOwner }) => {
     if (!isOwner) return;
 
     if (!q) {
-        return reply("🙇‍♂️ *Please provide the environment variable and its new value.* \n\nExample: `.update ALIVE_MSG: hello i am prabath kumara`");
+        return reply("🍃 *Please provide the environment variable and its new value.* \n\nExample: `.update ALIVE_MSG: hello i am prabath kumara`");
     }
 
     // Find the position of the first colon or comma
@@ -24,7 +24,7 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
     // Ensure we have a valid delimiter index
     const delimiterIndex = colonIndex !== -1 ? colonIndex : commaIndex;
     if (delimiterIndex === -1) {
-        return reply("🫠 *Invalid format. Please use the format:* `.update KEY:VALUE`");
+        return reply("🐱 *Invalid format. Please use the format:* `.update KEY:VALUE`");
     }
 
     // Extract key and value
@@ -40,20 +40,20 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
     const finalMode = validModes.includes(mode) ? mode : '';
 
     if (!key || !newValue) {
-        return reply("🫠 *Invalid format. Please use the format:* `.update KEY:VALUE`");
+        return reply("🐶 *Invalid format. Please use the format:* `.update KEY:VALUE`");
     }
 
     // Specific checks for MODE, ALIVE_IMG, and AUTO_READ_STATUS
     if (key === 'MODE' && !validModes.includes(newValue)) {
-        return reply(`😒 *Invalid mode. Valid modes are: ${validModes.join(', ')}*`);
+        return reply(`🐩 *Invalid mode. Valid modes are: ${validModes.join(', ')}*`);
     }
 
     if (key === 'ALIVE_IMG' && !newValue.startsWith('https://')) {
-        return reply("😓 *Invalid URL format. PLEASE GIVE ME IMAGE URL*");
+        return reply("🐺 *Invalid URL format. PLEASE GIVE ME IMAGE URL*");
     }
 
     if (key === 'AUTO_READ_STATUS' && !['true', 'false'].includes(newValue)) {
-        return reply("😓 *Invalid value for AUTO_READ_STATUS. Please use `true` or `false`.*");
+        return reply("🦏 *Invalid value for AUTO_READ_STATUS. Please use `true` or `false`.*");
     }
 
     try {
@@ -69,11 +69,11 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
 
         // Update the environment variable
         await updateEnv(key, newValue, finalMode);
-        reply(`✅ *Environment variable updated.*\n\n🗃️ *${key}* ➠ ${newValue} ${finalMode ? `\n*Mode:* ${finalMode}` : ''}`);
+        reply(`✅ *Environment variable updated.*\n\n🧾 *${key}* ➠ ${newValue} ${finalMode ? `\n*Mode:* ${finalMode}` : ''}`);
         
     } catch (err) {
         console.error('Error updating environment variable:' + err.message);
-        reply("🙇‍♂️ *Failed to update the environment variable. Please try again.*" + err);
+        reply("🍃 *Failed to update the environment variable. Please try again.*" + err);
     }
 });
 
