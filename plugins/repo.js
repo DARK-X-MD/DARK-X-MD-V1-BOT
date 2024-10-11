@@ -15,7 +15,7 @@ let dec = `*👋 HI ${pushname}*
 
 *🤖 DARK-X-MD-V1 REPO LINK 🤖👇*
 
-👨‍💻 https://github.com/DARK-X-TEAM/DARK-X-MD-V1 👨‍💻
+👨‍💻 Not Repo 👨‍💻
 
 *This bot was created by the DARK-X-TEAM, more information about this bot will be posted on our channel. Keep following the channel.*
 
