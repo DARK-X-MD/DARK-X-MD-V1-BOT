@@ -30,7 +30,7 @@
 [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+94774609569&text=Hᴇʏ_𝐒ʜᴀɴᴜᴡᴀ_𝐇ᴇʟᴘ)
 
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+9494727163302&text=Hᴇʏ_𝐃ᴀʀᴋ_𝗫_𝐇ᴇʟᴘ)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+94727163302&text=Hᴇʏ_𝐃ᴀʀᴋ_𝗫_𝐇ᴇʟᴘ)
 
 
 [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+94773883257&text=Hᴇʏ_𝐘ᴏᴠɪ_𝐇ᴇʟᴘ)
