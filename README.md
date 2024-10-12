@@ -30,13 +30,13 @@
 [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94774609569)
 
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94773883257)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+9494727163302&text=Hᴇʏ_𝐃ᴀʀᴋ_𝗫_𝐇ᴇʟᴘ)
 
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94727163302)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+94773883257&text=Hᴇʏ_𝐘ᴏᴠɪ_𝐇ᴇʟᴘ)
 
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94769483739)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://api.whatsapp.com/send?phone=+94769483739&text=Hᴇʏ_𝐊ᴇꜱʜɪ_𝐇ᴇʟᴘ)
 <hr>
 </details>
 
